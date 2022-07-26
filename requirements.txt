@@ -1,0 +1,10 @@
+textract==1.6.3
+pdfminer.six==20200720
+pandas==1.0.5
+tabula_py==2.1.1
+python_pdfbox==0.1.8
+py4j==0.10.9
+tika==1.24
+pdfbox==0.0
+PyPDF2==1.26.0
+tabula==1.0.5
