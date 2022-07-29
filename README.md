@@ -12,7 +12,7 @@
 
 ---
 ## 🧾 About
-**ConvertPDF** is a Python project to extract PDF content (text, images, tables) supported by Tabula, Tika, PDFBox and, TextractPDF libraries. 
+**ConvertPDF** is a Python project to extract PDF content (text, images, tables) supported by Tabula, Tika, PDFBox, and TextractPDF libraries. 
 
 ---
 ## 🕖 Versioning
@@ -35,8 +35,7 @@
 Download and install: 
  - [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
  - [Visual Studio Code 1.67.2](https://code.visualstudio.com/Download)
- 
-   
+    
 ```bash
   # Clone the project
   $ git clone https://github.com/abelgonzalez/ConvertPDF.git
