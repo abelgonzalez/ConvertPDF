@@ -16,7 +16,7 @@
 
 ---
 ## 🕖 Versioning
-- ConvertPDF v1.0 (relased in 19/02/2022)
+- ConvertPDF v1.0 (relased in 19/02/2022).
 
 ---
 ## ✅ Main features
